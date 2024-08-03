@@ -22,11 +22,9 @@ def regression(train_path, validation_path):
     x_train, y_train = util.load_dataset(train_path)
     x_validation, y_validation = util.load_dataset(validation_path)
 
-    # *** START CODE HERE ***
     beta_hat = np.linalg.pinv(x_train) @ y_train
     y_pred = x_validation @ beta_hat
     val_err = np.mean((y_pred - y_validation) ** 2) / 2
-    # *** END CODE HERE
     return val_err
 
 def ridge_regression(train_path, validation_path):
@@ -45,12 +43,10 @@ def ridge_regression(train_path, validation_path):
     x_validation, y_validation = util.load_dataset(validation_path)
 
     val_err = []
-    # *** START CODE HERE ***
     for reg in reg_list:
         beta_hat = np.linalg.inv(x_train.T @ x_train + reg * np.eye(x_train.shape[1])) @ x_train.T @ y_train
         y_pred = x_validation @ beta_hat
         val_err.append(np.mean((y_pred - y_validation) ** 2)/2)
-    # *** END CODE HERE
     return val_err
 
 if __name__ == '__main__':
