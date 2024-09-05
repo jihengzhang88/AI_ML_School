@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CS229 Machine Learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/doubledescent/doubledescent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/doubledescent/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/featuremaps/featuremap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/featuremaps/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/gd_convergence/experiment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/gd_convergence/plotting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/implicitreg/linear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/implicitreg/qp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/implicitreg/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/lwr/lwr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/lwr/tau.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/lwr/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps1/src/make_zip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/imbalanced/imbalanced.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/imbalanced/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/logreg_stability/logreg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/logreg_stability/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/make_zip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/mnist/nn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/poisson/poisson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/poisson/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/simple_nn/simple_nn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/src/simple_nn/util.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jihengzhang88&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jihengzhang88/AI_ML_School.git&quot;,
+    &quot;accountId&quot;: &quot;92da93f0-b828-4d30-bd43-680ad3b01456&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ldcJrfVIbH5Vjupcm3y6QUdjGC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School/Stanford/CS229 Machine Learning"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="" />
+      <created>1725513325826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725513325826</updated>
+    </task>
+    <servers />
+  </component>
+</project>

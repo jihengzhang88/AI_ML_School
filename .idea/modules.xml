@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CS229 Machine Learning.iml" filepath="$PROJECT_DIR$/.idea/CS229 Machine Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AI_ML_School.iml" filepath="$PROJECT_DIR$/.idea/AI_ML_School.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stanford/CS229 Machine Learning/.idea/CS229 Machine Learning.iml" filepath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/.idea/CS229 Machine Learning.iml" />
     </modules>
   </component>
 </project>
