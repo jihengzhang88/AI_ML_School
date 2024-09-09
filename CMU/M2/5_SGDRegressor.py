@@ -38,16 +38,16 @@ xreg = np.linspace(-2, 2)
 Xreg = np.vstack([xreg * xreg * xreg, xreg * xreg, xreg, np.ones_like(xreg)]).T
 
 
-model = LinearRegression()
-model.fit(X,y)
+model_linear = LinearRegression()
+model_linear.fit(X,y)
 
-yreg = model.predict(Xreg)
+yreg = model_linear.predict(Xreg)
 plot_data_with_regression(x, y, xreg, yreg, "Sklearn's `LinearRegression` model")
 
 
 # YOUR CODE GOES HERE
-model = SGDRegressor()
-model.fit(X,y)
+model_SGD = SGDRegressor()
+model_SGD.fit(X,y)
 
-yreg = model.predict(Xreg)
+yreg = model_SGD.predict(Xreg)
 plot_data_with_regression(x, y, xreg, yreg, "Sklearn's `SGDRegressor` model")
