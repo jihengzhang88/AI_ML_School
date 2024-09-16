@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu M2 push">
-      <change afterPath="$PROJECT_DIR$/CMU/M2/7_GDandRegularization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMU/M2/8_3DPlot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,32 +46,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1LinearLeastSquares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1LinerFit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_MSE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2Gradients.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_Gradients.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3KNN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_2DDataRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_GradientDesent.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_KNN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_LeastSquaresRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_SGDRegressor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_GDandRegularization.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GD.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MSE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SLIDER.executor&quot;: &quot;Run&quot;,
-    &quot;Python.imbalanced.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_npNote.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1LinearLeastSquares.executor": "Run",
+    "Python.1LinerFit.executor": "Run",
+    "Python.1_.executor": "Run",
+    "Python.1_MSE.executor": "Run",
+    "Python.2Gradients.executor": "Run",
+    "Python.2_.executor": "Run",
+    "Python.2_Gradients.executor": "Run",
+    "Python.2_LogisticRegression.executor": "Run",
+    "Python.3KNN.executor": "Run",
+    "Python.3_2DDataRegression.executor": "Run",
+    "Python.3_LogisticRegressionWithRegularization.executor": "Run",
+    "Python.4_GradientDesent.executor": "Run",
+    "Python.4_One-vs-OneMultinomialClassification.executor": "Run",
+    "Python.5_KNN.executor": "Run",
+    "Python.5_LeastSquaresRegression.executor": "Run",
+    "Python.5_SGDRegressor.executor": "Run",
+    "Python.6_SGDRegressor.executor": "Run",
+    "Python.7_GDandRegularization.executor": "Run",
+    "Python.8_3DPlot.executor": "Run",
+    "Python.GD.executor": "Run",
+    "Python.MSE.executor": "Run",
+    "Python.SLIDER.executor": "Run",
+    "Python.imbalanced.executor": "Run",
+    "Python.linear.executor": "Run",
+    "Python.z_npNote.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725863459448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="cmu M2 push">
+      <option name="closed" value="true" />
+      <created>1725947595653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725947595653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,5 +167,16 @@
     <MESSAGE value="cmu M1 push" />
     <MESSAGE value="cmu M2 push" />
     <option name="LAST_COMMIT_MESSAGE" value="cmu M2 push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CMU/M3/4_One-vs-OneMultinomialClassification.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
