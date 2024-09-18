@@ -31,16 +31,15 @@ class RollerCoaster:
     def overall_score(self):
         return self.scale_factor * self.comfort() * self.max_speed
 
+    def calculate_scores(coasters):
+        for coaster_data in coasters:
+            coaster_type, max_speed, bumps_per_second, lift_type = coaster_data.split()
+            max_speed = float(max_speed)
+            bumps_per_second = float(bumps_per_second)
 
-def calculate_scores(coasters):
-    for coaster_data in coasters:
-        coaster_type, max_speed, bumps_per_second, lift_type = coaster_data.split()
-        max_speed = float(max_speed)
-        bumps_per_second = float(bumps_per_second)
-
-        coaster = RollerCoaster(coaster_type, max_speed, bumps_per_second, lift_type)
-        overall_score = coaster.overall_score()
-        print(f"Overall: {overall_score:.1f}")
+            coaster = RollerCoaster(coaster_type, max_speed, bumps_per_second, lift_type)
+            overall_score = coaster.overall_score()
+            print(f"Overall: {overall_score:.1f}")
 
 
 # Example input

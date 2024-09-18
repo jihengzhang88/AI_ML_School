@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu M2 push">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMU/M3/4_One-vs-OneMultinomialClassification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roller_coaster.py" beforeDir="false" afterPath="$PROJECT_DIR$/roller_coaster.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,7 @@
     "Python.4_One-vs-OneMultinomialClassification.executor": "Run",
     "Python.5_KNN.executor": "Run",
     "Python.5_LeastSquaresRegression.executor": "Run",
+    "Python.5_OvRMultinomialClassification.executor": "Run",
     "Python.5_SGDRegressor.executor": "Run",
     "Python.6_SGDRegressor.executor": "Run",
     "Python.7_GDandRegularization.executor": "Run",
@@ -71,6 +75,7 @@
     "Python.MSE.executor": "Run",
     "Python.SLIDER.executor": "Run",
     "Python.imbalanced.executor": "Run",
+    "Python.install.executor": "Run",
     "Python.linear.executor": "Run",
     "Python.z_npNote.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,6 +84,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andrw\OneDrive - HUST Alumni Association of Canada\Documents\Study\AI_ML_School" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -159,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725947595653</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cmu M2 push">
+      <option name="closed" value="true" />
+      <created>1726470176525</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726470176526</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,16 +185,5 @@
     <MESSAGE value="cmu M1 push" />
     <MESSAGE value="cmu M2 push" />
     <option name="LAST_COMMIT_MESSAGE" value="cmu M2 push" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CMU/M3/4_One-vs-OneMultinomialClassification.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
