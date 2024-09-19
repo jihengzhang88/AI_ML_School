@@ -78,19 +78,19 @@ print("Dataset size:", np.shape(data))
 print("Expanded dataset size:", np.shape(features))
 
 
-from sklearn.linear_model import LogisticRegression
-
-def get_logistic_regressor(features, classes, L = 1):
-    # YOUR CODE GOES HERE
-    # - Instantiate model with regularization
-    # - Fit model to expanded data
-    model = LogisticRegression(C=1/L, max_iter=500)
-    model.fit(features, classes)
-    return model
-
-
-for L in [1e-9, 1e-1, 1]:
-    model = get_logistic_regressor(features, classes, L)
-    plot_data(data, classes, **format, title=f"$\\lambda={L}$")
-    plot_contour(model.predict, feature_expand)
-    plt.show()
+# from sklearn.linear_model import LogisticRegression
+#
+# def get_logistic_regressor(features, classes, L = 1):
+#     # YOUR CODE GOES HERE
+#     # - Instantiate model with regularization
+#     # - Fit model to expanded data
+#     model = LogisticRegression(C=1/L, max_iter=500)
+#     model.fit(features, classes)
+#     return model
+#
+#
+# for L in [1e-9, 1e-1, 1]:
+#     model = get_logistic_regressor(features, classes, L)
+#     plot_data(data, classes, **format, title=f"$\\lambda={L}$")
+#     plot_contour(model.predict, feature_expand)
+#     plt.show()

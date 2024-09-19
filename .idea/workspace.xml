@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu M2 push">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMU/M3/4_One-vs-OneMultinomialClassification.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roller_coaster.py" beforeDir="false" afterPath="$PROJECT_DIR$/roller_coaster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMU/M3/3_LogisticRegressionWithRegularization.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMU/M3/3_LogisticRegressionWithRegularization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roller_coaster.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +60,14 @@
     "Python.2_LogisticRegression.executor": "Run",
     "Python.3KNN.executor": "Run",
     "Python.3_2DDataRegression.executor": "Run",
-    "Python.3_LogisticRegressionWithRegularization.executor": "Run",
+    "Python.3_LogisticRegressionWithRegularization.executor": "Debug",
     "Python.4_GradientDesent.executor": "Run",
     "Python.4_One-vs-OneMultinomialClassification.executor": "Run",
     "Python.5_KNN.executor": "Run",
     "Python.5_LeastSquaresRegression.executor": "Run",
     "Python.5_OvRMultinomialClassification.executor": "Run",
     "Python.5_SGDRegressor.executor": "Run",
+    "Python.6_MultinomialLogisticRegression.executor": "Run",
     "Python.6_SGDRegressor.executor": "Run",
     "Python.7_GDandRegularization.executor": "Run",
     "Python.8_3DPlot.executor": "Run",
@@ -177,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726470176526</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cmu M2 push">
+      <option name="closed" value="true" />
+      <created>1726642095562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726642095562</updated>
+    </task>
+    <task id="LOCAL-00011" summary="cmu M2 push">
+      <option name="closed" value="true" />
+      <created>1726698351839</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726698351839</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,5 +201,16 @@
     <MESSAGE value="cmu M1 push" />
     <MESSAGE value="cmu M2 push" />
     <option name="LAST_COMMIT_MESSAGE" value="cmu M2 push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CMU/M3/3_LogisticRegressionWithRegularization.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
