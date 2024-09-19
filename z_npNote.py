@@ -3,7 +3,7 @@ import numpy as np
 y = np.array([1, 2, 3, 4, 5])
 k = np.array([1, 2, 3, 4, 5]).reshape(-1, 1)
 v = np.hstack([y * y, y, np.ones_like(y)])
-u = np.zeros(5).reshape(-1, 1)
+u = np.zeros(5)
 w = np.zeros((5, 1))
 z = np.vander(y, 3)
 x = np.vstack([y * y, y, np.ones_like(y)])

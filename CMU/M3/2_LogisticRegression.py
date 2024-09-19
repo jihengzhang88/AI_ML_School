@@ -79,7 +79,7 @@ def transform(data, w):
 
 
 def loss(data, y, w):
-    wt_x = transform(data,w)
+    wt_x = transform(data, w)
     J1 = -np.log(sigmoid(wt_x)) * y
     J2 = -np.log(1 - sigmoid(wt_x)) * (1-y)
     L = np.sum(J1 + J2)
