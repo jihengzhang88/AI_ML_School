@@ -32,6 +32,7 @@ def generate_ovr_prob_functions(xy, c):
         classifiers.append(prob_func)
     return classifiers
 
+
 def classify_ovr(probs, xy):
     # Compute probabilities for each class
     class_probs = np.zeros((xy.shape[0], len(probs)))
