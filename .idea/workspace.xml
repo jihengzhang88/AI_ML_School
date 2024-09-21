@@ -6,8 +6,125 @@
   <component name="ChangeListManager">
     <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu M2 push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMU/M3/3_LogisticRegressionWithRegularization.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMU/M3/3_LogisticRegressionWithRegularization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roller_coaster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/doubledescent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/doubledescent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/reg.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/reg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train200.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train200.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train250.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train250.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train300.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train300.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train350.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train350.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train400.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train400.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train450.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train450.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train500.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train550.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train550.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train600.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train600.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train650.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train650.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train700.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train700.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train750.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train750.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/train800.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/train800.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/unreg.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/unreg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/doubledescent/validation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/5_doubledescent/validation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/featuremap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/featuremap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/polynomial.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/polynomial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/polynomialpower3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/polynomialpower3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/polynomialsmall.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/polynomialsmall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/sine.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/sine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/small.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/small.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/featuremaps/valid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/valid.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/gd_convergence/experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/1_gd_convergence/experiment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/gd_convergence/plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/1_gd_convergence/plotting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/gd_convergence/trajectories.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/1_gd_convergence/trajectories.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/gd_convergence/trajectories_rotated.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/1_gd_convergence/trajectories_rotated.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/implicitreg_linear.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/implicitreg_linear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/implicitreg_quadratic_batchsize.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/implicitreg_quadratic_batchsize.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/implicitreg_quadratic_initialization.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/implicitreg_quadratic_initialization.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/ir1_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/ir1_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/ir1_valid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/ir1_valid.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/ir2_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/ir2_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/ir2_valid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/ir2_valid.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/linear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/linear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/qp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/qp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/implicitreg/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/4_implicitreg/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Figure_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Figure_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Figure_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Figure_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Tau003.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Tau003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Tau005.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Tau005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Tau010.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Tau010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Tau050.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Tau050.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Tau100.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Tau100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/Tau1000.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/Tau1000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/lwr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/lwr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/pred.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/pred.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/tau.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/tau.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/3_featuremaps/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/lwr/valid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps1/src/2_lwr/valid.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/decision_boundary_upsampling.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/decision_boundary_upsampling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/decision_boundary_vanilla.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/decision_boundary_vanilla.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/imbalanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/imbalanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/imbalanced_upsampling_pred.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/imbalanced_upsampling_pred.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/imbalanced_vanilla_pred.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/imbalanced_vanilla_pred.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/imbalanced/validation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/4_imbalanced/validation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/Decision_Boundary_and_Data.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/Decision_Boundary_and_Data.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/Decision_Boundary_and_Data_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/Decision_Boundary_and_Data_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/Decision_Boundary_and_Data_b_d.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/Decision_Boundary_and_Data_b_d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/ds1_a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/ds1_a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/ds1_b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/ds1_b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/logreg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/logreg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/logreg_pred_a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/logreg_pred_a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/logreg_pred_b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/logreg_pred_b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/logreg_stability/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/2_logreg_stability/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/baseline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/baseline.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/baseline.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/baseline.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/images_test.csv.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/images_test.csv.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/images_train.csv.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/images_train.csv.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/labels_test.csv.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/labels_test.csv.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/labels_train.csv.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/labels_train.csv.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/regularized.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/regularized.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/mnist/regularized.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/5_mnist/regularized.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/TrueVsPredictedCounts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/TrueVsPredictedCounts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/poisson.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/poisson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/poisson_pred.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/poisson_pred.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/poisson/valid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/1_poisson/valid.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/simple_nn/linear_weights.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/6_simple_nn/linear_weights.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/simple_nn/simple_nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/6_simple_nn/simple_nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/simple_nn/step_weights.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/6_simple_nn/step_weights.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/simple_nn/step_weights.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/6_simple_nn/step_weights.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/simple_nn/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/6_simple_nn/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/simple_nn/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps2/src/6_simple_nn/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/k_means.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/k_means.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/orig_large.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/orig_large.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/orig_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/orig_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/peppers-large.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/peppers-large.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/peppers-small.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/peppers-small.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/updated_large.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/updated_large.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/k_means/updated_large_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/1_k_means/updated_large_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/gmm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/gmm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_ss_0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_ss_0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_ss_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_ss_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_ss_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_ss_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_ss_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_ss_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_ss_2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_ss_2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/pred_ss_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/pred_ss_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/semi_supervised_em/valid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Stanford/CS229 Machine Learning/ps3/src/2_semi_supervised_em/valid.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,42 +165,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1LinearLeastSquares.executor": "Run",
-    "Python.1LinerFit.executor": "Run",
-    "Python.1_.executor": "Run",
-    "Python.1_MSE.executor": "Run",
-    "Python.2Gradients.executor": "Run",
-    "Python.2_.executor": "Run",
-    "Python.2_Gradients.executor": "Run",
-    "Python.2_LogisticRegression.executor": "Run",
-    "Python.3KNN.executor": "Run",
-    "Python.3_2DDataRegression.executor": "Run",
-    "Python.3_LogisticRegressionWithRegularization.executor": "Debug",
-    "Python.4_GradientDesent.executor": "Run",
-    "Python.4_One-vs-OneMultinomialClassification.executor": "Run",
-    "Python.5_KNN.executor": "Run",
-    "Python.5_LeastSquaresRegression.executor": "Run",
-    "Python.5_OvRMultinomialClassification.executor": "Run",
-    "Python.5_SGDRegressor.executor": "Run",
-    "Python.6_MultinomialLogisticRegression.executor": "Run",
-    "Python.6_SGDRegressor.executor": "Run",
-    "Python.7_GDandRegularization.executor": "Run",
-    "Python.8_3DPlot.executor": "Run",
-    "Python.GD.executor": "Run",
-    "Python.MSE.executor": "Run",
-    "Python.SLIDER.executor": "Run",
-    "Python.imbalanced.executor": "Run",
-    "Python.install.executor": "Run",
-    "Python.linear.executor": "Run",
-    "Python.z_npNote.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1LinearLeastSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1LinerFit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_MSE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2Gradients.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_Gradients.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_LogisticRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3KNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_2DDataRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_LogisticRegressionWithRegularization.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4_GradientDesent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_One-vs-OneMultinomialClassification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_KNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_LeastSquaresRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_OvRMultinomialClassification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_SGDRegressor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_MultinomialLogisticRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_SGDRegressor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_GDandRegularization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_3DPlot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MSE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SLIDER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imbalanced.executor&quot;: &quot;Run&quot;,
+    &quot;Python.install.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.z_npNote.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andrw\OneDrive - HUST Alumni Association of Canada\Documents\Study\AI_ML_School" />

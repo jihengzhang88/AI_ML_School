@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import sys
 from sklearn.metrics import accuracy_score, balanced_accuracy_score, confusion_matrix
 
-sys.path.append('../logreg_stability')
+sys.path.append('../2_logreg_stability')
 ### NOTE : You need to complete logreg implementation first! If so, make sure to set the regularization weight to 0.
 from logreg import LogisticRegression
 
@@ -70,7 +70,7 @@ def upsample_minority(x, y, kappa):
 
 
 def main(train_path, validation_path, save_path):
-    """Problem 2: Logistic regression for imbalanced labels.
+    """Problem 2: Logistic regression for 4_imbalanced labels.
 
     Run under the following conditions:
         1. naive logistic regression
