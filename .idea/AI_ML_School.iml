@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CMU/Class" />
+      <excludeFolder url="file://$MODULE_DIR$/CMU/M1/recitations_1" />
+      <excludeFolder url="file://$MODULE_DIR$/CMU/M2/recitation_2" />
+      <excludeFolder url="file://$MODULE_DIR$/CMU/M3/recitation_3" />
+      <excludeFolder url="file://$MODULE_DIR$/CMU/M4" />
+      <excludeFolder url="file://$MODULE_DIR$/Stanford/CS229 Machine Learning/CS 229 Lecture" />
+      <excludeFolder url="file://$MODULE_DIR$/Stanford/CS229 Machine Learning/Previous Exams" />
+      <excludeFolder url="file://$MODULE_DIR$/Stanford/CS229 Machine Learning/ps0" />
+      <excludeFolder url="file://$MODULE_DIR$/Stanford/CS229 Machine Learning/ps4" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/etc" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/share" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="CS229 Machine Learning" />

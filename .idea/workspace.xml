@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu M2 push">
-      <change afterPath="$PROJECT_DIR$/CMU/M3/8_OvRLogisticRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMU/M3/w3-hw2-data-test.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMU/M3/w3-hw2-data-train.npy" afterDir="false" />
+    <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu push">
+      <change afterPath="$PROJECT_DIR$/CMU/M4/1_SVM_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMU/M4/2_SVM_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMU/M4/3_SVC_linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMU/M4/4_SVC_non-linear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AI_ML_School.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_ML_School.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMU/M3/5_OvRMultinomialClassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMU/M3/5_OvRMultinomialClassification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_npNote.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_npNote.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +58,12 @@
     "Python.1LinerFit.executor": "Run",
     "Python.1_.executor": "Run",
     "Python.1_MSE.executor": "Run",
+    "Python.1_SVM.executor": "Debug",
     "Python.2Gradients.executor": "Run",
     "Python.2_.executor": "Run",
     "Python.2_Gradients.executor": "Run",
     "Python.2_LogisticRegression.executor": "Run",
+    "Python.2_SVM_use.executor": "Run",
     "Python.3KNN.executor": "Run",
     "Python.3_2DDataRegression.executor": "Run",
     "Python.3_LogisticRegressionWithRegularization.executor": "Debug",
@@ -68,6 +72,7 @@
     "Python.5_KNN.executor": "Run",
     "Python.5_LeastSquaresRegression.executor": "Run",
     "Python.5_OvRMultinomialClassification.executor": "Debug",
+    "Python.5_OvR_SVC.executor": "Debug",
     "Python.5_SGDRegressor.executor": "Run",
     "Python.6_MultinomialLogisticRegression.executor": "Run",
     "Python.6_SGDRegressor.executor": "Run",
@@ -205,22 +210,39 @@
       <option name="project" value="LOCAL" />
       <updated>1726890604904</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="cmu M2 push">
+      <option name="closed" value="true" />
+      <created>1726908458173</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726908458173</updated>
+    </task>
+    <task id="LOCAL-00014" summary="cmu push">
+      <option name="closed" value="true" />
+      <created>1726908517372</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726908517372</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stanford commit" />
     <MESSAGE value="cmu M1 push" />
     <MESSAGE value="cmu M2 push" />
-    <option name="LAST_COMMIT_MESSAGE" value="cmu M2 push" />
+    <MESSAGE value="cmu push" />
+    <option name="LAST_COMMIT_MESSAGE" value="cmu push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CMU/M3/5_OvRMultinomialClassification.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/CMU/M4/5_OvR_SVC.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
