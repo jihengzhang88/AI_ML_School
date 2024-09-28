@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu push">
-      <change afterPath="$PROJECT_DIR$/CMU/M4/1_SVM_build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMU/M4/2_SVM_use.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMU/M4/3_SVC_linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMU/M4/4_SVC_non-linear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AI_ML_School.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_ML_School.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/z_npNote.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_npNote.py" afterDir="false" />
-    </list>
+    <list default="true" id="6bfbc62b-1c0e-405f-98f5-292ffce6b1cb" name="Changes" comment="cmu push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,47 +44,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1LinearLeastSquares.executor": "Run",
-    "Python.1LinerFit.executor": "Run",
-    "Python.1_.executor": "Run",
-    "Python.1_MSE.executor": "Run",
-    "Python.1_SVM.executor": "Debug",
-    "Python.2Gradients.executor": "Run",
-    "Python.2_.executor": "Run",
-    "Python.2_Gradients.executor": "Run",
-    "Python.2_LogisticRegression.executor": "Run",
-    "Python.2_SVM_use.executor": "Run",
-    "Python.3KNN.executor": "Run",
-    "Python.3_2DDataRegression.executor": "Run",
-    "Python.3_LogisticRegressionWithRegularization.executor": "Debug",
-    "Python.4_GradientDesent.executor": "Run",
-    "Python.4_One-vs-OneMultinomialClassification.executor": "Run",
-    "Python.5_KNN.executor": "Run",
-    "Python.5_LeastSquaresRegression.executor": "Run",
-    "Python.5_OvRMultinomialClassification.executor": "Debug",
-    "Python.5_OvR_SVC.executor": "Debug",
-    "Python.5_SGDRegressor.executor": "Run",
-    "Python.6_MultinomialLogisticRegression.executor": "Run",
-    "Python.6_SGDRegressor.executor": "Run",
-    "Python.7_GDandRegularization.executor": "Run",
-    "Python.8_3DPlot.executor": "Run",
-    "Python.8_OvRLogisticRegression.executor": "Run",
-    "Python.9_OvRMNC.executor": "Run",
-    "Python.GD.executor": "Run",
-    "Python.MSE.executor": "Run",
-    "Python.SLIDER.executor": "Run",
-    "Python.imbalanced.executor": "Run",
-    "Python.install.executor": "Run",
-    "Python.linear.executor": "Run",
-    "Python.z_npNote.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1LinearLeastSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1LinerFit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_MSE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_SVM.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.2Gradients.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_Gradients.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_LogisticRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_SVM_use.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3KNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_2DDataRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_LogisticRegressionWithRegularization.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4_GradientDesent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_One-vs-OneMultinomialClassification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_KNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_LeastSquaresRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_OvRMultinomialClassification.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.5_OvR_SVC.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.5_SGDRegressor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_MultinomialLogisticRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_SGDRegressor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_GDandRegularization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_3DPlot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_OvRLogisticRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9_OvRMNC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MSE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SLIDER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imbalanced.executor&quot;: &quot;Run&quot;,
+    &quot;Python.install.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.z_npNote.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andrw/OneDrive - HUST Alumni Association of Canada/Documents/Study/AI_ML_School&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andrw\OneDrive - HUST Alumni Association of Canada\Documents\Study\AI_ML_School" />
