@@ -1,3 +1,15 @@
 *.pdf
-Stanford
 .idea/*
+*.mp4
+CS229MachineLearning/CS229Lecture
+CS229MachineLearning/PreviousExams
+*.zip
+*.yml
+*.md
+*.png
+*.csv
+*make_zip.py
+*.txt
+*__pycache__
+*.jpg
+*.gz
