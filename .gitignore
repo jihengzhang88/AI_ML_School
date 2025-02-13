@@ -13,3 +13,6 @@ CS229MachineLearning/PreviousExams
 *__pycache__
 *.jpg
 *.gz
+CS224NNaturalLanguageProcessingwithDeepLearning/a4/student/expt
+*.docx
+*.DS*
