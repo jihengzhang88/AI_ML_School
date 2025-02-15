@@ -16,3 +16,5 @@ CS229MachineLearning/PreviousExams
 CS224NNaturalLanguageProcessingwithDeepLearning/a4/student/expt
 *.docx
 *.DS*
+*.params
+*.predictions
